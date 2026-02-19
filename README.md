@@ -1,2 +1,2 @@
-# version.txt
+# version
 atuo update
